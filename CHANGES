@@ -1,5 +1,9 @@
 1.0.0 2019-05-14
- - Initial release.
+ - Initial release
 
 1.0.1 2019-05-21
- - Replace data for sub-mniS04.
+ - Updated: sub-mniS04 (not the correct subject)
+
+1.0.2 2019-05-22
+ - Updated: sub-mniS04 (fixed error introduced in 1.0.1)
+ - Updated: sub-tehranS04 (not the correct subject)
