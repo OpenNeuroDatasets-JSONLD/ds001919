@@ -1,9 +1,15 @@
 1.0.0 2019-05-14
- - Initial release
+- Initial release
 
 1.0.1 2019-05-21
- - Updated: sub-mniS04 (not the correct subject)
+- Updated: sub-mniS04 (not the correct subject)
 
 1.0.2 2019-05-22
-  -  - Updated: sub-mniS04 (fixed error introduced in 1.0.1) 
-  - - Updated: sub-tehranS04 (not the correct subject)
+- Updated: sub-mniS04 (fixed error introduced in 1.0.1) 
+- Updated: sub-tehranS04 (not the correct subject)
+
+1.0.3 2019-07-08
+- Added: sub-pavia01, cmrra, cmrrb, ubc, tokyoSkyra(sub-07), tokyo750w(sub-07), tokyoIngenia(sub-07)
+- Fixed participants.tsv for tokyoSkyra
+
+
