@@ -9,7 +9,5 @@
 - Updated: sub-tehranS04 (not the correct subject)
 
 1.0.3 2019-07-08
-- Added: sub-pavia01, cmrra, cmrrb, ubc, tokyoSkyra(sub-07), tokyo750w(sub-07), tokyoIngenia(sub-07)
-- Fixed participants.tsv for tokyoSkyra
-
-
+  - Added: sub-pavia01, cmrra, cmrrb, ubc, tokyoSkyra(sub-07), tokyo750w(sub-07), tokyoIngenia(sub-07)
+  - Fixed participants.tsv for tokyoSkyra
