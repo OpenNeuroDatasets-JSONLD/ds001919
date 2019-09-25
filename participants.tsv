@@ -16,6 +16,19 @@ sub-barcelona03	M	39	2018-11-23	barcelona	Advanced Imaging in Neuroimmunological
 sub-barcelona04	F	39	2018-11-30	barcelona	Advanced Imaging in Neuroimmunological Diseases (ImaginEM) group	Siemens	Prisma-fit	HeadNeck_64	syngo_MR_E11	"Martinez-Heras E, Solana E, Llufriu S"
 sub-barcelona05	F	36	2018-11-30	barcelona	Advanced Imaging in Neuroimmunological Diseases (ImaginEM) group	Siemens	Prisma-fit	HeadNeck_64	syngo_MR_E11	"Martinez-Heras E, Solana E, Llufriu S"
 sub-barcelona06	F	25	2018-11-30	barcelona	Advanced Imaging in Neuroimmunological Diseases (ImaginEM) group	Siemens	Prisma-fit	HeadNeck_64	syngo_MR_E11	"Martinez-Heras E, Solana E, Llufriu S"
+sub-beijingGE01	-	-	-	beijing750	Beijing Tiantan Hospital	GE	MR750	-	24_LX_MR_Software_release:DV24.0_R01_1344.a	Yazhuo Kong
+sub-beijingGE02	-	-	-	beijing750	Beijing Tiantan Hospital	GE	MR750	-	24_LX_MR_Software_release:DV24.0_R01_1344.a	Yazhuo Kong
+sub-beijingGE03	-	-	-	beijing750	Beijing Tiantan Hospital	GE	MR750	-	24_LX_MR_Software_release:DV24.0_R01_1344.a	Yazhuo Kong
+sub-beijingGE04	-	-	-	beijing750	Beijing Tiantan Hospital	GE	MR750	-	24_LX_MR_Software_release:DV24.0_R01_1344.a	Yazhuo Kong
+sub-beijingPrisma01	-	-	-	beijingPrisma	Beijing Tiantan Hospital	Siemens	Prisma	HeadNeck_64	syngo_MR_E11	Yazhuo Kong
+sub-beijingPrisma02	-	-	-	beijingPrisma	Beijing Tiantan Hospital	Siemens	Prisma	HeadNeck_65	syngo_MR_E12	Yazhuo Kong
+sub-beijingPrisma03	-	-	-	beijingPrisma	Beijing Tiantan Hospital	Siemens	Prisma	HeadNeck_66	syngo_MR_E13	Yazhuo Kong
+sub-beijingPrisma04	-	-	-	beijingPrisma	Beijing Tiantan Hospital	Siemens	Prisma	HeadNeck_67	syngo_MR_E14	Yazhuo Kong
+sub-beijingPrisma05	-	-	-	beijingPrisma	Beijing Tiantan Hospital	Siemens	Prisma	HeadNeck_68	syngo_MR_E15	Yazhuo Kong
+sub-beijingVerio01	-	-	-	beijingVerio	Beijing Tiantan Hospital	Siemens	Verio	NeckMatrix	syngo_MR_B19	Yazhuo Kong
+sub-beijingVerio02	-	-	-	beijingVerio	Beijing Tiantan Hospital	Siemens	Verio	NeckMatrix	syngo_MR_B20	Yazhuo Kong
+sub-beijingVerio03	-	-	-	beijingVerio	Beijing Tiantan Hospital	Siemens	Verio	NeckMatrix	syngo_MR_B21	Yazhuo Kong
+sub-beijingVerio04	-	-	-	beijingVerio	Beijing Tiantan Hospital	Siemens	Verio	NeckMatrix	syngo_MR_B22	Yazhuo Kong
 sub-brno01	-	-	-	brno	"The University Hospital Brno, Department of Radiology and Nuclear Medicine, Czech Republic"	GE	Signa-PETMR	-	MP24	"Marek Dostal, Milo Kekovsk"
 sub-brno02	-	-	-	brno	"The University Hospital Brno, Department of Radiology and Nuclear Medicine, Czech Republic"	GE	Signa-PETMR	-	MP24	"Marek Dostal, Milo Kekovsk"
 sub-brno03	-	-	-	brno	"The University Hospital Brno, Department of Radiology and Nuclear Medicine, Czech Republic"	GE	Signa-PETMR	-	MP24	"Marek Dostal, Milo Kekovsk"
