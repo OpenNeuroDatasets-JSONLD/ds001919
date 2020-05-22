@@ -1,0 +1,9 @@
+1.0.5 2020-05-21
+  - Added: beijingGE, beijingPrisma, beijingVerio
+  - Fixed: ubc01->06: Split MT scan into MTon/MToff scans
+  - Fixed: ubc01->04: Only kept one run for T2star
+  - participants.tsv: sub-ubc*: Ingenia_Elition --> Ingenia-ElitionX
+
+1.0.0	2020-05-21
+
+	- Initial snapshot
