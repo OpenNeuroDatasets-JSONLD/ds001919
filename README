@@ -45,3 +45,21 @@ If you would like to participate in this repository database, please contact [Ju
 ## Processing scripts
 
 We provide a processing pipeline to analyze the dataset. For more information, please go to the [Github page](https://github.com/sct-pipeline/spine-generic#analysis-pipeline) of the project.
+
+## Maintaining this repository
+
+This section is for internal use and describes the procedure for creating new
+releases of the database and making sure it is synced with the local server at
+NeuroPoly Lab.
+
+To push changes:
+- Make sure local repository is synced with the latest version online.
+- Modify/Add/Delete files in the local repository.
+- Update file CHANGES
+- Upload to openneuro:
+XXX
+- At this stage, the status is "draft". Examine the log to assess that only the
+files that were supposed to change (or added) have indeed changed. Archive the log
+file.
+- Once validated, create a snapshot.
+- Update local repository to latest version online.
