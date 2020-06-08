@@ -56,8 +56,7 @@ To push changes:
 - Make sure local repository is synced with the latest version online.
 - Modify/Add/Delete files in the local repository.
 - Update file CHANGES
-- Upload to openneuro:
-XXX
+- Upload to openneuro
 - At this stage, the status is "draft". Examine the log to assess that only the
 files that were supposed to change (or added) have indeed changed. Archive the log
 file.
