@@ -1,9 +1,9 @@
 {
-	"Name": "Spinal Cord MRI Public Database (Multi-subjects)",
-	"BIDSVersion": "1.2.0",
-	"License": "MIT",
-	"Authors": [
-		"J. Cohen-Adad",
+    "Name": "Spinal Cord MRI Public Database (Multi-subjects)",
+    "BIDSVersion": "1.2.0",
+    "License": "CC0",
+    "Authors": [
+        "J. Cohen-Adad",
         "M. Abramovic",
         "C. Arneitz",
         "L. Barlow",
@@ -81,7 +81,8 @@
         "D. Pareto",
         "\u00c0. Rovira",
         "V. Callot",
-        "P. De Sousa"
+        "P. De Sousa",
+        "F. Prados"
     ],
     "Acknowledgements": "We thank Gerald Moran and Bart Schraa (Siemens Healthcare), Suchandrima Banerjee and Naoyuki Takei (GE Healthcare), Carollyn Hurst, Andr\u00e9 Cyr, Arnaud Bor\u00e9 and Pierre Bellec (Functional Neuroimaging Unit), Charles Tremblay (Polytechnique Montreal), Antonys Melek and Habib Benali (PERFORM center, Concordia University), Ives Lesveques (McGill University) and all the volunteers who participated in the Spinal Cord MRI Public Database.",
     "Funding": [
