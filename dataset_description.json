@@ -1,9 +1,9 @@
 {
-    "Name": "Spinal Cord MRI Public Database (Multi-subjects)",
-    "BIDSVersion": "1.2.0",
-    "License": "CC0",
-    "Authors": [
-        "J. Cohen-Adad",
+	"Name": "Spinal Cord MRI Public Database (Multi-subjects)",
+	"BIDSVersion": "1.2.0",
+	"License": "MIT",
+	"Authors": [
+		"J. Cohen-Adad",
         "M. Abramovic",
         "C. Arneitz",
         "L. Barlow",
