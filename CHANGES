@@ -1,3 +1,10 @@
+1.0.8 2020-06-16
+  - Added data from mountSinai
+  - vuiisIngenia changed scanner type to Philips, Ingenia
+  - Removed duplicated authors
+  - Removed authors not listed in the manuscript table
+  - Fixed CHANGES
+  - Fixed acknowledgements
 1.0.7 2020-06-11
   - Renamed brno data (brno → brnoUhb & brnoPrisma → brnoCeitec)
   - Updated coauthors
