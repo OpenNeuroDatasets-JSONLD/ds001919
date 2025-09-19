@@ -7,7 +7,7 @@
                 "TermURL": "nb:ParticipantID",
                 "Label": ""
             },
-            "Identifies": "participant"
+            "VariableType": "Identifier"
         }
     },
     "sex": {
@@ -30,7 +30,8 @@
             },
             "MissingValues": [
                 "-"
-            ]
+            ],
+            "VariableType": "Categorical"
         }
     },
     "age": {
